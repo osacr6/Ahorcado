@@ -181,12 +181,13 @@ En el repositorio debe estar lo siguiente:
 <br />
 
 ## Actividades
-- Asignado > 
+- Asignado > Daniel
 - Creación de modelo Palabra.
 - Agregar una palabra nueva al diccionario.
 
 <br />
 
+- Asignado > Fabian
 - Creación de modelo Jugador.
 - Crear un jugador nuevo.
 - Mostrar el escalafón de jugadores.
