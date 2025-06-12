@@ -185,7 +185,7 @@ Asignado
 - Creación de modelo Palabra.
 - Agregar una palabra nueva al diccionario.
 
-- <br />
+<br />
 
 - Creación de modelo Jugador.
 - Crear un jugador nuevo.
