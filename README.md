@@ -194,13 +194,13 @@ En el repositorio debe estar lo siguiente:
 
 <br />
 
-- Asignado > Eddier
+- Asignado > Ronal
 - Creación de modelo Partida.
 - Crear una Partida nueva.
 
 <br />
 
-- Asignado > 
+- Asignado > Eddier
 - Esquema de la base de datos usando[**Mermaid**](https://mermaid.js.org/)).
 - Configuración de Entity Framework usando MySQL.
 - Desarrollo del script de precarga de 100 palabras.
